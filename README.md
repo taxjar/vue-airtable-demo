@@ -1,6 +1,6 @@
-# <vue-airtable>
+# Vue.js + Airtable Demo
 
-A simple Vue component to display a list of items powered by Airtable. Check out our [blog post](https://developers.taxjar.com/blog/airtable-and-vue-js-for-static-websites/) all about using Airtable and Vue.js for static websites!
+A simple Vue component to display a list of items powered by [Airtable](https://airtable.com/). Check out our [blog post](https://developers.taxjar.com/blog/airtable-and-vue-js-for-static-websites/) all about using Airtable and Vue.js for static websites!
 
 ## Configuration
 
